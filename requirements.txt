@@ -1,0 +1,21 @@
+# FIVAR_HAR.ipynb 실행 환경 (Python 3.12 기준)
+
+# --- 과학 계산 코어 ---
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+scikit-learn>=1.4
+matplotlib>=3.8
+
+# --- 최적화 (PSD projection / minimize 등) ---
+cvxpy>=1.4
+
+# --- 병렬 처리 / 진행률 ---
+joblib>=1.3
+tqdm>=4.66
+tqdm-joblib>=0.0.4
+
+# --- 노트북 실행 ---
+jupyterlab>=4.0
+ipykernel>=6.29
+

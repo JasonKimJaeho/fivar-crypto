@@ -4,7 +4,7 @@ Application of the FIVAR paper's methodology to the crypto market using Binance 
 
 ### Project Workflow & File Structure
 
-1. `make_univrse.ipynb`
+1. `make_universe.ipynb`
 
 * **Description:** Selects the top 200 cryptocurrency tickers based on liquidity to form the initial universe.
 * **Output:** `crypto_universe_output/final_tickers_formation_2023_2025_top200.csv`
